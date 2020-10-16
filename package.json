@@ -1,0 +1,26 @@
+{
+    "name": "react-native-secure-keypad",
+    "version": "0.0.1",
+    "description": "Secure Keypad native module for react-native",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "author": "nixstory@gmail.com",
+    "license": "MIT",
+    "keywords": [
+        "react-native",
+        "ios",
+        "android",
+        "aes"
+    ],
+    "homepage": "http://reactspring.io",
+    "bugs": {
+        "url": "https://github.com/reactspring/react-native-secure-keypad/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/reactspring/react-native-secure-keypad.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}

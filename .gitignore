@@ -1,0 +1,6 @@
+.DS_Store
+ios/RCTSecureKeypad.xcodeproj/xcuserdata/*
+ios/RCTSecureKeypad.xcodeproj/project.xcworkspace/*
+android/.idea/*
+android/.gradle/*
+android/build/*
